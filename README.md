@@ -1,3 +1,5 @@
+[![Rust](https://github.com/Trenrod/book_zerotoproduction/actions/workflows/rust.yml/badge.svg?branch=develop)](https://github.com/Trenrod/book_zerotoproduction/actions/workflows/rust.yml)
+
 # Zero to Production
 
 ## Setup
